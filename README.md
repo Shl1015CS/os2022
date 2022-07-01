@@ -1,4 +1,4 @@
-# 2022 Daily schedule of OS TraniningCamp
+# 2022 Daily schedule of OS Tranining Camp
 
 - daily study：每日学习心得（笔记）
 
@@ -16,3 +16,25 @@
 | 13    <br>    ([D13](#day-13-2022713))             | 14         <br>    ([D14](#day-14-2022714))        | 15        <br>    ([D15](#day-15-2022715))                    | 16    <br>     ([D16](#day-16-2022716))                       | 17    <br>      ([D17](#day-17-2022717))                       | 18    <br>    ([D18](#day-18-2022718))            | 19   <br>     ([D19](#day-19-2022719))            |
 | 20   <br>    ([D20](#day-20-2022720))            | 21       <br>    ([D21](#day-21-2020721))         | 22     <br>    ([D22](#day-22-2020722))                         | 23     <br>    ([D23](#day-23-2022723))                         | 24    <br>    ([D24](#day-24-2022724))                        | 25      <br>    ([D25](#day-25-2022725))             | 26         <br>    ([D26](#day-26-2022726))           |
 | 27         <br>    ([D27](#day-27-2020727))           | 28       <br>    ([D28](#day-28-2022728))           | 29         <br>    ([D29](#day-29-2022729))                    | 30        <br>    ([D30](#day-30-2022730))                     | 31     <br>    ([D31](#day-31-2022731))                           |                   |                   |
+
+
+
+------
+
+## Day 1 2022/7/1
+
+### OS Tranining Camp
+
+前几天投的简历在今天早上就收到了回复。之前了解过rust语言的核心特点是安全性，即是指Safety,而非Security。本身对rCore实验就是比较感兴趣的，能将rust语言应用到操作系统的编写当然是一件要去参与的事情。
+
+看了课程安排，需要学习的有RISC-V架构，Rust语言，操作系统课程，这对于我来说无疑是极好的，虽说本人是本科学材料学的，但是还是对计算机充满了热爱。
+
+### Study Rust
+
+今天就开始学习了Rust，看了[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)，（因为并不能看懂英文书，当然这在之后的时间里要加强对英语的学习与掌握）
+
+通过观看推荐网课：
+
+- Rust编程视频教程（基础）--令狐壹冲(https://www.bilibili.com/video/BV1xJ411B79h?p=1&vd_source=1247df552269232c9b6af3ff5c9f0868)
+- Rust编程视频教程（进阶）--令狐壹冲（https://www.bilibili.com/video/BV1FJ411Y71o?spm_id_from=333.999.0.0）
+- 具体内容参考今日笔记文档[Day1_rust.md](daily_study/Day1_rust.md)
