@@ -37,6 +37,6 @@
 
 - [Rust编程视频教程（基础）](https://www.bilibili.com/video/BV1xJ411B79h?p=1&vd_source=1247df552269232c9b6af3ff5c9f0868)
 
-- [Rust编程视频教程（进阶）]（https://www.bilibili.com/video/BV1FJ411Y71o?spm_id_from=333.999.0.0）
+- [Rust编程视频教程（进阶）](https://www.bilibili.com/video/BV1FJ411Y71o?spm_id_from=333.999.0.0)
 
 - 具体内容参考今日笔记文档[Day1_rust.md](daily_study/Day1_rust.md)
