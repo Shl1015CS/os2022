@@ -39,4 +39,4 @@
 
 - [Rust编程视频教程（进阶）](https://www.bilibili.com/video/BV1FJ411Y71o?spm_id_from=333.999.0.0)
 
-- 具体内容参考今日笔记文档[Day1_rust.md](daily_study/Day1_rust.md)
+- 具体内容参考今日笔记文档[Day1_rust](daily_study/Day1_rust.md)
