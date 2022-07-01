@@ -39,3 +39,19 @@
 - [Rust编程视频教程（进阶）](https://www.bilibili.com/video/BV1FJ411Y71o?spm_id_from=333.999.0.0)
 
 - 具体内容参考今日笔记文档[Day1_rust](daily_study/Day1_rust.md)
+
+## Day 2 2022/7/2
+
+### OS Learning
+
+今天学习了操作系统的基本概念，大概了解了操作系统的需求和我们为什么要学习操作系统，后半段学习了操作系统的历史。十分风趣幽默，知识也是易于接受，了解到了我们要学习的东西，即kernel。
+操作系统的核心特征就是并发性，这也是我们需要首要实现和解决的点，为后续实现功能打好基础，之后动手搭建环境，用的是github classroom，完成简单的程序员其实操作hello,world!。
+
+### Rust Learning
+
+继续了rust基础阶段的学习，认识了
+
+- 所有权(引用借用，slice类型)
+- 结构体相关知识
+- 枚举和模式匹配
+- 具体内容参考今日笔记文档[Day2](daily_study/day2_os-learning.md)
