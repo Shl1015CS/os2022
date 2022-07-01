@@ -6,11 +6,15 @@
 
 我才用的环境是虚拟机搭载的Ubuntu20.04
 运行：
+
 curl https://sh.rustup.rs -sSf | sh
+
 source ~/.cargo/env
 > Welcome to Rust!
+
 rustc --version
 >rustc 1.64.0-nightly (ddcbba036 2022-06-29)
+
 cargo --version
 >cargo 1.64.0-nightly (dbff32b27 2022-06-24)
 环境安装完毕！
