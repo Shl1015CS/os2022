@@ -54,5 +54,56 @@
 - 所有权(引用借用，slice类型)
 - 结构体相关知识
 - 枚举和模式匹配
+- 使用包
+- 集合
+- 错误处理
+- 泛型、trait 和生命周期
 
 - 具体内容参考今日笔记文档[Day2](daily_study/day2_os-learning.md)
+
+编程练习题 ： 
+
+[Small exercises to get you used to reading and writing Rust code!](os2022/my-rustlings/README.md)
+
+完成了：
+
+- variables
+- if
+- function
+- primitive_types
+- structs
+- strings
+- enums
+- tests
+- modules
+- macros
+- move_semantics
+
+和附带的quiz
+
+## Day 2 2022/7/3
+
+### 阅读rCore 指导书
+
+阅读了今年适用于2022训练营的新指导书[rCore-Tutorial-Book 第三版](https://learningos.github.io/rust-based-os-comp2022/)
+
+完成了lab0-test1，环境搭建，通过观看往届第一个实验是去除宏指令完成裸机运行输出Hello,World!看来今年只能通过观看代码解决了！
+### Rust Learning
+
+继续了学习Rust,学习的内容如下：
+- 生命周期
+- 函数式编程: 闭包、迭代器
+- 深入类型
+- 智能指针
+- 循环引用与自引用
+- 错误处理
+
+做完了所有[rustling-exercise](os2022/my-rustlings/README.md),发现越往后做越难，一边hint，一边看圣经，一边debug，一边做。学了约等于没学，做起题来还是得从头看，尤其是错速处理部分。
+
+### OS Learning
+
+观看了第二次课程，获益匪浅
+
+-参考第三天总结[day3](os2022/daily_study/day3-learning.md)
+
+训练营强度还是很大的
