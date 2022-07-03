@@ -2,6 +2,7 @@
 
 - daily study：每日学习心得（笔记）
 - rust-exercise-play 写的一些rust小程序
+- my rustlings:rust的练习和代码
 
 目前处于第一阶段，第一环节学习Rust语言
 
