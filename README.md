@@ -146,3 +146,19 @@
 开幕式顺利召开
 
 -参考第三天总结[day5](os2022/daily_study/day5-learning.md)
+
+## Day 6 2022/7/6
+
+### Rust
+
+重新学习生命周期，开始做练习题[32 Rust Quizes](https://dtolnay.github.io/rust-quiz/1)
+
+
+### OS learning
+
+完成第五节课的学习，准备开始看ch3的实验和代码。
+
+### Risc-v
+
+学习Risc-v架构和计算机软硬件接口第三章知识
+
