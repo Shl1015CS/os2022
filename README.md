@@ -126,3 +126,23 @@
 
 -参考第四天总结[day4](os2022/daily_study/day4-learning.md)
 
+## Day 5 2022/7/5
+
+### Rust
+
+继续学习Rust语法，并尝试做第二部分习题，开始看源码
+
+### OS learning
+
+开始学习第四节课，开始了解进程相关知识
+
+### Risc-v
+
+继续学习计算机组成软硬件接口第二章知识
+
+
+### 晚上开会
+
+开幕式顺利召开
+
+-参考第三天总结[day5](os2022/daily_study/day5-learning.md)
