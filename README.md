@@ -60,7 +60,7 @@
 - 错误处理
 - 泛型、trait 和生命周期
 
-- 具体内容参考今日笔记文档[Day2](daily_study/day2_os-learning.md)
+- 具体内容参考今日笔记文档[Day2](daily_study/day2_os-Learning.md)
 
 编程练习题 ： 
 
