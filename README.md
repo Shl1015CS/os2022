@@ -105,7 +105,7 @@
 
 观看了第二次课程，获益匪浅
 
--参考第三天总结[day3](os2022/daily_study/day3-learning.md)
+-参考第三天总结[day3](daily_study/day3-learning.md)
 
 训练营强度还是很大的
 
@@ -124,7 +124,7 @@
 
 开始尝试去阅读第二章ch2的批处理系统相关内容，尝试去读懂代码了解内核精髓！并思考课后题
 
--参考第四天总结[day4](os2022/daily_study/day4-learning.md)
+-参考第四天总结[day4](daily_study/day4-learning.md)
 
 ## Day 5 2022/7/5
 
@@ -145,7 +145,7 @@
 
 开幕式顺利召开
 
--参考第三天总结[day5](os2022/daily_study/day5-learning.md)
+-参考第三天总结[day5](daily_study/day5-learning.md)
 
 ## Day 6 2022/7/6
 
@@ -192,7 +192,7 @@
 
 继续看书ch3环节，准备做第一个实验
 
-参考今日笔记[day8](os2022/daily_study/day8-learning.md)
+参考今日笔记[day8](daily_study/day8-learning.md)
 
 ## Day 9 2022/7/9
 
@@ -210,4 +210,4 @@
 
 又阅读了RISC-V操作手册
 
-参考今日笔记[day11](os2022/daily_study/day11-learning.md)
+参考今日笔记[day11](daily_study/day11-learning.md)
