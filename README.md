@@ -211,3 +211,26 @@
 又阅读了RISC-V操作手册
 
 参考今日笔记[day11](daily_study/day11-learning.md)
+
+## Day 12 2022/7/12
+
+今天完成了rcore ch3的实验，了解了多道程序OS原理与实践
+
+## Day 13 2022/7/13
+
+阅读rcore-tutorial的ch4-lab2的代码，并开始着手做实验。
+
+并开始写rcore-tutorial的实验报告，完成于[report-lab1](report/lab1.md)
+
+## Day 14 2022/7/14
+
+阅读了Risc-V的第十章，并梳理了特权架构的相关知识。
+
+重新看了看Rust的编程相关知识。
+
+
+## Day 15 2022/7/15
+
+完成对于rcore-tutorial的ch4的阅读
+
+观看了lab2的实验讲解视频
