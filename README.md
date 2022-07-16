@@ -234,3 +234,7 @@
 完成对于rcore-tutorial的ch4的阅读
 
 观看了lab2的实验讲解视频
+
+## Day 16 2022/7/16
+
+rCore-tutorial中多级页表和超越物理内存的管理学习
