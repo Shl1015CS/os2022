@@ -238,3 +238,11 @@
 ## Day 16 2022/7/16
 
 rCore-tutorial中多级页表和超越物理内存的管理学习
+
+## Day 17 2022/7/17
+
+## Day 18 2022/7/18
+
+完成了rocre-tutorial中ch4的内容和实验。
+
+[lab2](daily_study/day19-learning-lab2.md)
