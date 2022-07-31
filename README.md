@@ -6,6 +6,8 @@
 
 目前处于第一阶段，第一环节学习Rust语言
 
+[第一阶段总结报告](os2022/daily_study/phase1report.md)
+
 
 ## 时间表
 
